@@ -10,8 +10,8 @@ Gem::Specification.new do |spec|
   spec.email         = ["robertosante@gmail.com"]
 
   spec.summary       = %q{ because RubyGems requires one.}
-  spec.description   = %q{Write a longer description or delete this line.}
-  spec.homepage      = "http://test.com"
+  spec.description   = %q{This gem integrates full calendar js into your rails application assets}
+  spec.homepage      = "https://github.com/robertosante/rails-fullcalendar"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
